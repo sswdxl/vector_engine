@@ -5,4 +5,4 @@ pandas==1.1.2
 numpy==1.19.2
 folium==0.2.1
 streamlit==0.62.0
-faiss
+faiss-cpu==1.7.3
